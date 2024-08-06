@@ -1,7 +1,0 @@
-pandas >= 2.2.2
-numpy >= 2.0.0
-<<<<<<< HEAD
-matplotlib >= 3.9.0
-=======
-matplotlib >= 3.9.0
->>>>>>> 7ccc16540fea1e038e4fedfa2fbf5e1582d77d8c
